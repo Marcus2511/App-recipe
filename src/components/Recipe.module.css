@@ -1,0 +1,26 @@
+.repcipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px gray;
+    box-sizing: border-box;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: white;
+    align-items: center;
+    min-width: 45%;
+}
+
+.Calories{
+    box-sizing: border-box;
+    text-align: center;
+    border: 2px solid orangered;
+    background: linear-gradient(45deg, #ff9a9e 0%, #fad0c4 99%, #fad0c4 100%);
+    width: 20%;
+}
+
+.image{
+    border-radius: 20%;
+    height: 300px;
+    padding-bottom: 10px;
+}
